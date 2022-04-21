@@ -1,0 +1,6 @@
+[submodule "external/python-seg2mesh"]
+	path = external/python-seg2mesh
+	url = https://github.com/lorenzocerrone/python-seg2mesh
+[submodule "external/python-spline-fitting-toolbox"]
+	path = external/python-spline-fitting-toolbox
+	url = https://gitlab.ebi.ac.uk/uhlmann-group/python-spline-fitting-toolbox
