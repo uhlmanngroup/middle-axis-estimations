@@ -1,4 +1,3 @@
-# This mainly copied/adaped from Virginie's spline repository: https://gitlab.ebi.ac.uk/uhlmann-group/python-spline-fitting-toolbox/-/tree/master
 import numpy as np
 from scipy.integrate import quad
 from sft.spline.basis import B3
