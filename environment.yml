@@ -1,0 +1,17 @@
+name: ma_estimations
+channels:
+  - conda-forge
+dependencies:
+  - h5py
+  - mpmath
+  - numpy
+  - networkx
+  - napari
+  - scipy
+  - scikit-image
+  - tifffile
+  - vtk
+  - vedo
+  - pip
+  - pip:
+      - ipdb
