@@ -1,6 +1,6 @@
 # middle-axis-estimations
 
-This repository contains an algorithm for finding the most symmetric axis (w.r.t. the distance transform) between two points in 3D image volumes.
+This repository contains an algorithm for fitting a symmetric axis (w.r.t. the distance transform) between two points on an object in a 3D image volume.
 
 ## Installation
 - Clone this repo:
